@@ -9,10 +9,10 @@ https://github.com/SemNik88/First/blob/432c1b2e9af451567431a4e8ff6202033e760048/
 3. Посмотреть на выводе в консоли
 ## Фактический результат:
 # Скриншот # 1
-![image](https://github.com/SemNik88/First/assets/142649558/8bb2a538-aae9-49c4-b3a6-47f63d0ef771)
+![First](https://github.com/SemNik88/First/assets/142649558/cca69ccd-11c0-4aad-8710-6fae603a1b8c)
 ## Ожидаемый результат:
 # Скриншот # 2
-![image](https://github.com/SemNik88/First/assets/142649558/5d60d575-ec75-42c9-9840-f1f89590b7a4)
+![First change](https://github.com/SemNik88/First/assets/142649558/08bc5cce-b215-417a-869e-d0ceb609d95d)
 ## Окружение
 1. Операционная система: Windows 10 Pro 22H2 19045.3636
 2. IDE: IntelliJ IDEA 2023.2.3 (Community Edition)
